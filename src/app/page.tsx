@@ -36,7 +36,7 @@ export default function Home() {
             transition={{ duration: 0.5 }}
             className="absolute inset-0 flex items-center justify-center"
           >
-            <ScratchCard imageSrc="/valentine-surprise.png" />
+            <ScratchCard imageSrc="/valentine_bear_1771049788605.png" />
           </motion.div>
         )}
       </AnimatePresence>

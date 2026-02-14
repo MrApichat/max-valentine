@@ -19,7 +19,7 @@ export default function WelcomeScreen({ onStart }: WelcomeScreenProps) {
           Hey You! 💖
         </h1>
         <p className="text-xl text-rose-400 font-medium">
-          เค้ามีเซอร์ไพรส์ให้นะ...
+          มีอะไรให้ดู...
         </p>
       </motion.div>
 
